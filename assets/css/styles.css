@@ -1,0 +1,28 @@
+/* body {
+  background-color: brown;
+} */
+
+#drag {
+  height: 50px;
+  width: 50px;
+  background-color: aqua;
+  margin: 2px;
+  font-size: 10px;
+  border: 1px solid black;
+}
+
+#tiles {
+  position: absolute;
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: salmon;
+  margin: 2px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: center;
+  border-radius: 50%;
+  border: 1px solid black;
+}
